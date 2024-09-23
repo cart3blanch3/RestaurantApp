@@ -1,0 +1,38 @@
+.header {
+  background-color: #1d1d1d;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.logo a {
+  color:white;
+  text-decoration: none;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav-link {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-size: 1rem;
+  cursor: pointer; /* Добавляем стиль курсора pointer для обозначения ссылок */
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}

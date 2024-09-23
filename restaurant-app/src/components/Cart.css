@@ -1,0 +1,240 @@
+.cart-icon-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.cart-icon {
+  background-color: #1E1E1E;
+  padding: 15px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.cart-icon img {
+  width: 24px;
+  height: 24px;
+}
+
+.cart-count {
+  background-color: #ee1e32;
+  color: white;
+  border-radius: 50%;
+  padding: 5px;
+  font-size: 1rem;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25px;
+  height: 25px;
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+  outline: none;
+}
+
+.close-button::after {
+  content: '';
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  bottom: -5px;
+  left: -5px;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  transition: border-color 0.3s;
+}
+
+.close-button:hover::after,
+.close-button:focus::after {
+  border-color: #ee1e32;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table th,
+table td {
+  padding: 10px;
+  border: 1px solid #333;
+}
+
+table th {
+  background-color: #ee1e32;
+}
+
+table td button {
+  background-color: #ee1e32;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+table td button:hover {
+  background-color: #a61d15;
+}
+
+table td span {
+  margin: 0 10px;
+}
+
+.modal {
+  background: #1E1E1E;
+  border-radius: 10px;
+  padding: 20px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 800px;
+  width: 100%;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.modal-overlay {
+  background: rgba(0, 0, 0, 0.75);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 1.5rem;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.modal-content {
+  text-align: center;
+}
+
+.item-image {
+  padding-top: 15px;
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  z-index: 999;
+}
+
+.item-description {
+  margin-top: 10px;
+  font-size: 1rem;
+}
+
+.item-price {
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+
+.order-form {
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: #fff;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  background-color: #1E1E1E;
+  border: none;
+  color: white;
+  font-size: 1rem;
+  border: 1px solid #333;
+}
+
+.form-group textarea {
+  resize: vertical; /* Разрешаем изменение размера по вертикали */
+  height: 100px; /* Начальная высота текстового поля */
+}
+
+.form-group input[type="radio"] {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #e53935;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.form-group input[type="radio"]:checked {
+  background-color: #e53935;
+}
+
+.form-group input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  background-color: #ee1e32;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+
+.submit-order-button {
+  background-color: #ee1e32;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.submit-order-button:hover {
+  background-color: #a61d15;
+}
+
+.delivery-options {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Расстояние между чекбоксами */
+}
+
+.radio-label {
+  display: flex;
+  align-items: center; /* Выравнивание чекбоксов по вертикали */
+}
+
+.radio-label input[type="radio"] {
+  margin-right: 5px; /* Расстояние между чекбоксом и текстом */
+}

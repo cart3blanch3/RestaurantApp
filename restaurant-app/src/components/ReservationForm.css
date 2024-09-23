@@ -1,0 +1,141 @@
+.reservation-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.reservation-form label {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.reservation-form input,
+.reservation-form textarea {
+padding: 10px;
+border: 1px solid #333;
+border-radius: 5px;
+background-color: #1E1E1E;
+color: white;
+width: 97%;
+}
+
+.react-datepicker {
+padding: 10px;
+border: 1px solid #333;
+border-radius: 5px;
+background-color: white;
+color: white;
+width: 99%;
+}
+
+.reservation-form input::placeholder {
+  color: white;
+}
+
+.reservation-form input[type="date"]::-webkit-calendar-picker-indicator,
+.reservation-form input[type="time"]::-webkit-calendar-picker-indicator {
+  filter: invert(1); /* Делает иконку белой */
+}
+
+.reservation-form button {
+  padding: 10px 20px;
+  background-color: #ee1e32;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.reservation-form button:hover {
+  background-color: #a61d15;
+}
+
+.modal {
+  background: #1E1E1E;
+  border-radius: 10px;
+  padding: 20px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 500px;
+  width: 100%;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.75);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.close-button {
+  color: white; 
+  background: none; 
+  border: none; 
+  cursor: pointer; 
+  transition: color 0.3s; 
+}
+
+.close-button:hover {
+  color:white;
+  background-color: #ee1e32;
+}
+
+.custom-calendar .react-datepicker__header {
+  background-color: #1E1E1E;
+  border-bottom: none; /* Убираем нижнюю границу шапки, если есть */
+  text-decoration-color: white;
+}
+
+
+.custom-calendar .react-datepicker__day-name{
+  color: white;
+}
+.custom-calendar .react-datepicker__current-month {
+  color: white; /* Белый цвет текста текущего месяца */
+}
+
+.custom-calendar {
+  background-color: #1E1E1E; /* Черный фон календаря */
+}
+
+.custom-calendar .react-datepicker__day {
+  color: white; /* Красный цвет чисел дней */
+}
+
+.custom-calendar .react-datepicker__day--selected,
+.custom-calendar .react-datepicker__day:hover,
+.custom-calendar .react-datepicker__day--today {
+  background-color: red;
+  color: white; /* Белый цвет текста на подсвеченной дате */
+  border-radius: 50%; /* Округление углов для подсвеченной даты */
+}
+
+.reservation-form label input::placeholder,
+.reservation-form label textarea::placeholder {
+color: gray; /* Цвет серых подсказок */
+}
+
+.reservation-form label input:focus::placeholder,
+.reservation-form label textarea:focus::placeholder,
+.reservation-form label input:active::placeholder,
+.reservation-form label textarea:active::placeholder {
+color: white; /* Цвет подсказок при фокусировке или нажатии */
+}
+
+.modal-notification button{
+color: white; 
+background: #ee1e32; 
+border: none; 
+cursor: pointer; 
+transition: color 0.3s; 
+}

@@ -1,0 +1,97 @@
+.admin-menu-items {
+    padding: 20px;
+    text-align: center;
+    background-color: #1E1E1E;
+    color: white;
+}
+
+.admin-menu-items h2 {
+    font-size: 2.5rem;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.items-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.menu-item {
+    border: 1px solid #333;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 200px;
+    background-color: #1E1E1E;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s, background-color 0.3s;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.menu-item img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.menu-item h3 {
+    margin: 10px 0;
+    color: white;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #EE1E32;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #a61d15;
+}
+
+.menu-item:hover {
+    transform: scale(1.05);
+    background-color: #EE1E32;
+}
+
+.menu-item p {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.admin-menu-items button {
+    padding: 10px 20px;
+    background-color: #ee1e32;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Добавляем плавный переход для фона */
+}
+
+.admin-menu-items button {
+    padding: 10px 20px;
+    background-color: #ee1e32;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Добавляем плавный переход для фона */
+    margin-right: 10px; /* Добавляет отступ справа для каждой кнопки */
+    margin-bottom: 15px; /* Добавлен нижний отступ для каждой кнопки */
+}
+
+.admin-menu-items button:last-child {
+    margin-right: 0; /* Убирает отступ справа у последней кнопки в группе */
+}
+
+/* Отступ от кнопки "Добавить" */
+.add-new-item-button {
+    margin-bottom: 20px; /* Добавляет нижний отступ от кнопки "Добавить" */
+}

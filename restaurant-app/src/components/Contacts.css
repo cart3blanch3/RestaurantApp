@@ -1,0 +1,42 @@
+.contacts-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 50px;
+    padding: 0 20px; 
+    max-width: 1400px; 
+    margin-left: auto; 
+    margin-right: auto; 
+  }  
+
+.contacts-left {
+    width: 40%; /* Уменьшил ширину левой части */
+  }
+  
+  .contacts-right {
+    width: 55%; /* Уменьшил ширину правой части */
+    border: 1px solid #ccc;
+    height: 300px; /* Настройте высоту карты по необходимости */
+  }  
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.contact-icon {
+  margin-right: 10px;
+  font-size: 1.2rem;
+}
+
+.contacts-right {
+  border: 1px solid #ccc;
+  height: 100px;
+  width: 1000px;
+}
+
+.leaflet-control-attribution,
+.leaflet-control-layers {
+  display: none !important;
+}

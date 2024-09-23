@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\1.png",
+      "PackagePath": "staticwebassets\\categories\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\10.jpeg",
+      "PackagePath": "staticwebassets\\categories\\10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\11.jpeg",
+      "PackagePath": "staticwebassets\\categories\\11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\12.jpeg",
+      "PackagePath": "staticwebassets\\categories\\12.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\13.jpeg",
+      "PackagePath": "staticwebassets\\categories\\13.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\14.jpeg",
+      "PackagePath": "staticwebassets\\categories\\14.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\15.jpeg",
+      "PackagePath": "staticwebassets\\categories\\15.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\16.jpeg",
+      "PackagePath": "staticwebassets\\categories\\16.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\2.jpeg",
+      "PackagePath": "staticwebassets\\categories\\2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\3.png",
+      "PackagePath": "staticwebassets\\categories\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\4.png",
+      "PackagePath": "staticwebassets\\categories\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\5.png",
+      "PackagePath": "staticwebassets\\categories\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\6.png",
+      "PackagePath": "staticwebassets\\categories\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\7.png",
+      "PackagePath": "staticwebassets\\categories\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\8.jpeg",
+      "PackagePath": "staticwebassets\\categories\\8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\9.jpeg",
+      "PackagePath": "staticwebassets\\categories\\9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\cart-38-16.png",
+      "PackagePath": "staticwebassets\\categories\\cart-38-16.png"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\cart-38-32.png",
+      "PackagePath": "staticwebassets\\categories\\cart-38-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\cart-38-64.png",
+      "PackagePath": "staticwebassets\\categories\\cart-38-64.png"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\categories\\hero-image1.jpg",
+      "PackagePath": "staticwebassets\\categories\\hero-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\1.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\10.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\11.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\12.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\12.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\13.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\13.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\14.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\14.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\15.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\15.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\16.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\16.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\17.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\17.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\18.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\18.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\19.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\19.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\2.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\20.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\20.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\21.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\21.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\22.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\22.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\23.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\23.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\24.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\24.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\25.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\25.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\26.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\27.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\27.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\28.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\28.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\29.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\29.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\3.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\30.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\30.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\31.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\31.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\32.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\32.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\33.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\33.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\34.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\34.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\35.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\35.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\36.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\36.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\37.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\37.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\38.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\38.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\39.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\39.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\4.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\40.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\40.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\41.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\41.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\42.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\42.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\43.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\43.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\44.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\44.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\45.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\45.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\46.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\46.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\47.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\47.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\48.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\48.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\49.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\49.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\5.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\50.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\50.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\51.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\51.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\52.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\52.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\53.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\53.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\54.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\54.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\55.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\55.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\56.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\56.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\57.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\57.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\58.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\58.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\59.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\59.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\6.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\60.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\60.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\61.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\61.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\62.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\62.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\63.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\63.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\64.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\64.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\65.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\65.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\66.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\66.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\67.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\67.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\68.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\68.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\7.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\8.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sergey\\RestarauntApp\\RestaurantApi\\wwwroot\\dishes\\9.jpeg",
+      "PackagePath": "staticwebassets\\dishes\\9.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RestaurantApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RestaurantApi.props",
+      "PackagePath": "build\\RestaurantApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RestaurantApi.props",
+      "PackagePath": "buildMultiTargeting\\RestaurantApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RestaurantApi.props",
+      "PackagePath": "buildTransitive\\RestaurantApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,50 @@
+/* AdminLogin.module.css */
+.loginContainer {
+    background: rgba(0, 0, 0, 0.75);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Занимает всю видимую высоту */
+    padding: 20px;
+}
+
+.loginForm {
+    background: #1E1E1E;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+    max-width: 320px; /* Максимальная ширина формы */
+}
+
+.loginForm input {
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #1E1E1E;
+    color: white;
+    width: 95%;
+}
+
+.loginForm button {
+    padding: 12px 20px;
+    background-color: #ee1e32;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.loginForm button:hover {
+    background-color: #a61d15;
+}
+
+.loginForm h2 {
+    color: white;
+    text-align: center;
+}
